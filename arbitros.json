@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Árbitro A",
+    "experiencia": "X años en la liga nacional",
+    "partidos_arbitrados": ["Encuentro 1", "Encuentro 3", "..."]
+  },
+  {
+    "nombre": "Árbitro B",
+    "experiencia": "Y años en la liga internacional",
+    "partidos_arbitrados": ["Encuentro 2", "..."]
+  }
+]
